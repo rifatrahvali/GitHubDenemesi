@@ -4,3 +4,8 @@ uc.txt olusturup test ettik.
 son commit
 
 git clone ile dosyayı indirdim.
+
+git clone https://github.com/rifatrahvali/GitHubDenemesi.git
+
+fork 
+kopyalar ancak kendi hesabımıza kopyalar.
