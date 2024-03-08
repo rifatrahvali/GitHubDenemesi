@@ -4,3 +4,5 @@ deneme f
 push -f 
 
 test
+
+git push
