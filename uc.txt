@@ -1,0 +1,3 @@
+birleştirdik.
+github ile local bilgisayardaki repoyu eşitledik.
+uc.txt olusturup test ettik.
