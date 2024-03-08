@@ -1,1 +1,4 @@
 Github Eğitim için denemedir.
+deneme f
+
+push -f 
